@@ -2,7 +2,7 @@
 
 Welcome to the GitHub repository for my Python project: **Exploratory Data Analysis (EDA) of Zomato's Dataset**. This project aims to uncover insights from Zomato's extensive dataset, which includes information on restaurants, cuisines, locations, ratings, and pricing. Through thorough analysis and visualization, this project highlights trends and patterns that can provide valuable business intelligence for the food and beverage industry.
 
-## Project Overview
+## Overview
 
 In this project, we delve into various facets of the dataset to:
 - **Understand Restaurant Distribution**: Analyze the spread of restaurants across different cities.
