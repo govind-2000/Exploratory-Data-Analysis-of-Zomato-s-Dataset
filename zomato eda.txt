@@ -1,0 +1,49 @@
+Hello Folks,
+
+I want to share my new project. In this project, I have performed Exploratory Data Analysis (EDA) using Python.
+
+What is EDA?
+EDA is the process of investigating the dataset to discover patterns, anomalies (outliers), and form hypotheses based on our understanding of the dataset. EDA involves generating summary statistics for numerical data in the dataset and creating various graphical representations to understand the data better.
+
+EDA Steps
+Data Collection
+
+Data Cleaning:
+
+Removing missing values, outliers, and deleting unnecessary rows and columns that are of no use in the context of the problem definition.
+Reindexing rows and reformatting data.
+Univariate Analysis:
+
+Exploring a single variable that can be numeric or categorical using graphical or non-graphical approaches.
+Bivariate Analysis:
+
+Comparing two variables to find out if there is any strong relationship between them.
+Multivariate Analysis:
+
+Considering more than two variables at a time and trying to establish the relationship between them.
+Benefits of EDA
+EDA reveals the true nature of your data.
+EDA helps to find out the clues that are present in the data.
+In EDA, we perform open-minded exploration of the data, providing valuable information.
+EDA helps to determine and remove outliers and anomalies.
+EDA helps to find out the statistical summary of your data.
+Key Findings of the Zomato Dataset
+Maximum transactions are from India (94.39%), followed by the United States and the United Kingdom.
+Rating categorization:
+4.5 to 4.9: Excellent
+4.0 to 4.4: Very Good
+3.5 to 3.9: Good
+2.5 to 3.4: Average
+1.8 to 2.4: Poor
+The maximum number of zero ratings are from Indian customers.
+Online delivery is available in India and the UAE.
+Top 5 cities with the highest number of transactions:
+New Delhi
+Gurgaon
+Noida
+Faridabad
+Ghaziabad
+Afghani cuisine is the most ordered cuisine.
+Feel free to explore the repository and don't hesitate to reach out with questions or suggestions. Happy analyzing!
+
+
